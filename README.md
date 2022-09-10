@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @pajelaz, aka Zachary Pajela.
+- 👀 I’m interested in enhancing my skills and further my knowledge.
+- 🌱 I’m currently learning Information Science and Technology at The University of Oklahoma, Data Analytics, Data Science, Data Visualization
+- 📫 How to reach me: zacharypajela.com, zachary.pajela@gmail.com
